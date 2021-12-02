@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: She/Her
 
