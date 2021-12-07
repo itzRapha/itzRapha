@@ -22,11 +22,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itzrapha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/itzrapha" /></a></p><br><br>
 
-    
-    
    
   <a href = "mailto:raphaellaguerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphaellaguerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrapha&label=Profile%20views&color=0e75b6&style=flat" alt="itzrapha" /> </p>      
  
   ![Snake animation](https://github.com/itzRapha/itzRapha/blob/output/github-contribution-grid-snake.svg)
   </div>
