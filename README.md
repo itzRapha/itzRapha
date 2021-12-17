@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/itzRapha">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=itzRapha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzRapha&layout=compact&langs_count=7&theme=dracula"/>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,13 +21,7 @@
    <a href="https://www.linkedin.com/in/raphaellaguerra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/itzrapha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="170" alt="https://www.buymeacoffee.com/itzrapha" /></a></p><br><br>
-
-
-   
- 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzrapha&label=Profile%20views&color=0e75b6&style=flat" alt="itzrapha" /> </p>      
+     
  
   ![Snake animation](https://github.com/itzRapha/itzRapha/blob/output/github-contribution-grid-snake.svg)
   </div>
